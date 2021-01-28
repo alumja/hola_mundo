@@ -8,7 +8,7 @@ en líneas distintas el nombre de usuario tantas veces como el número introduci
 name = (input("¿Cómo te llamas? "))
 print(name + "\n")
 n = int((input("Introduce un número entero: "))
-if n >= 0:
+if n >= 0: #falta solucionarlo
     print((name + "\n") * int(n))
 else:
     print("No funciona")
