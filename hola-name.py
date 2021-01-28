@@ -1,4 +1,4 @@
-# -*- codung: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 Escribir script que pregunte el nombre del usuario en la consola y una número entero e imprima por pantalla
 en líneas distintas el nombre de usuario tantas veces como el número introducido.
